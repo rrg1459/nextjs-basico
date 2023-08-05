@@ -23,6 +23,7 @@ const Home = () => {
       <main>
         <div>
           <h4>{divisas.date}</h4>
+          <hr />
           <h4>{divisas.dolar}</h4>
           <h4>{divisas.euro}</h4>
         </div>
